@@ -1,2 +1,2 @@
-# Circuito-com-Ampops
-Circuitos com ampops do roteiro 1
+# Laboratório de Eletrônica 1
+Arquivos do lab de Eln1
