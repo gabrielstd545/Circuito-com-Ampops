@@ -24,7 +24,7 @@ Figura 2 - Circuito buffer utilizando o ampop Lm324n
 ![](lab%20ampop/buffer/Simula%C3%A7%C3%A3o%20Do%20Lm324n%20LTSpice%20-%20circuito.jpg)
 Obs: Buffer realimentado para diminuição da corrente de polarização
 # Simulação Do Lm324n LTSpice 
-Tensão de entrada x Tensão de saída
+Figura 3 - Tensão de entrada x Tensão de saída
 ![](lab%20ampop/buffer/Simula%C3%A7%C3%A3o%20Do%20Lm324n%20LTSpice%20-%20simula%C3%A7%C3%A3o.jpg)
 # Comparação dos resultados
 Tensões (V) | Tensões de Pico (V) | Tensão Máxima (V) | Tensão Mínima (V)
@@ -34,8 +34,10 @@ Tensão de entrada simulada | 0,5 | 0,5 | -0,5
 Tensão de saída teórica | 0,5 | 0,5 | -0,5
 Tensão de saída simulada | 0,5 | 0,5 | -0,5
 # TL082 - Simulação
+Figura 4 - Circuito simulado com ampop TL082
 ![](lab%20ampop/buffer/TL082%20%E2%80%93%20SIMULA%C3%87%C3%83O%20-%20circuito.jpg)
 # TL082 - Simulação
+Figura 5 - Tensão de entrada x Tensão de saída
 ![](lab%20ampop/buffer/TL082%20%E2%80%93%20SIMULA%C3%87%C3%83O%20-%20simula%C3%A7%C3%A3o.jpg)
 Tensões (V) | Tensões de Pico (V) | Tensão Máxima (V) | Tensão Mínima (V)
 ----------- | ------------------- | ----------------- | ----------------
@@ -63,12 +65,16 @@ Especificações:
 * Tensão de entrada: 0,5V
 * Tensão de saída: 5V
 # Simulação LM324n
+Figura 6 - Circuito simulado inversor com ampop LM324n
 ![](lab%20ampop/inversor/simula%C3%A7%C3%A3o%20lm324%20circuito.jpg)
 # Simulação LM324n
+Figura 7 - Tensão de entrada x Tensão de saída com LM324n
 ![](lab%20ampop/inversor/lm324%20SIMULA%C3%87%C3%83O%20-%20grafico.jpg)
 # Simulação do TL082
+Figura 8 - Circuito simulado inversor com ampop TL082
 ![](lab%20ampop/inversor/TL082%20%E2%80%93%20SIMULA%C3%87%C3%83O%20-%20circuito.jpg)
 # Simulação do TL082
+Figura 9 - Tensão de entrada x Tensão de saída com ampop TL082
 ![](lab%20ampop/inversor/TL082%20%E2%80%93%20SIMULA%C3%87%C3%83O%20-%20grafico.jpg)
 # Conclusões
 Em relação a configuração inversora, ambos ampops apresentaram o ganho de 10, excluindo as imperfeições.
