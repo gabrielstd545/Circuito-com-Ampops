@@ -4,16 +4,15 @@ Aluno:
 
 Professores: 
 * Daniel Lohmann
-
-## Parte 01 - Buffer
-* Objetivo específico: Medir o ganho de um amplificador inversor
-*Experimento: Utilizando os ampops Lm324n e Experimento: Utilizando os ampops Lm324n e TL082 na configuração de amplificador inversor.
+# Parte 01 - Buffer
+* Objetivo específico: Medir o ganho de um amplificador inversor.
+* Experimento: Utilizando os ampops Lm324n e Experimento: Utilizando os ampops Lm324n e TL082 na configuração de amplificador inversor.
 Especificações: 
-*Utilize uma resistência de realimentçãoo de 10 kΩ.
-*Utilize a alimentação simétrica de +/-12 V.
-*Limitar a corrente em 0,05A
-*Gerador de funções: Senoide 0,5Vpp
-*Frequência: 1KHz
+* Utilize uma resistência de realimentçãoo de 10 kΩ.
+* Utilize a alimentação simétrica de +/-12 V.
+* Limitar a corrente em 0,05A
+* Gerador de funções: Senoide 0,5Vpp
+* Frequência: 1KHz
 # Parte 01 - Buffer
 O ampop na configuração buffer tem o seguinte funcionamento, todo o sinal de saída tem que ser igual ao sinal de entrada, sem ocorrer distorções na forma de onda.
 ## Buffer
