@@ -13,7 +13,7 @@ Especificações:
 * Limitar a corrente em 0,05A
 * Gerador de funções: Senoide 0,5Vpp
 * Frequência: 1KHz
-# Parte 01 - Buffer
+## Buffer
 O ampop na configuração buffer tem o seguinte funcionamento, todo o sinal de saída tem que ser igual ao sinal de entrada, sem ocorrer distorções na forma de onda.
 ## Buffer
 Figura 1 - Circuito Buffer teórico
