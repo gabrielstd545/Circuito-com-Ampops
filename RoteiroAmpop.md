@@ -16,12 +16,10 @@ Especificações:
 # Parte 01 - Buffer
 O ampop na configuração buffer tem o seguinte funcionamento, todo o sinal de saída tem que ser igual ao sinal de entrada, sem ocorrer distorções na forma de onda.
 ## Buffer
-<br/>
 Figura 1 - Circuito Buffer teórico
 ![](lab%20ampop/buffer/buffer.jpg)
 # Simulação Do Lm324n LTSpice
 Figura 2 - Circuito buffer utilizando o ampop Lm324n
-<br/>
 ![](lab%20ampop/buffer/Simula%C3%A7%C3%A3o%20Do%20Lm324n%20LTSpice%20-%20circuito.jpg)
 Obs: Buffer realimentado para diminuição da corrente de polarização
 # Simulação Do Lm324n LTSpice 
